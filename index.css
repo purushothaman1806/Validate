@@ -1,0 +1,20 @@
+body{
+    background-color: blueviolet;
+    margin: 0;
+}
+#form{
+    width: 400px;
+    margin: 20dvh auto 0 auto;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 30px;
+
+}
+h1{
+    text-align: center;
+}
+.error{
+    color: red;
+    font-size: 16px;
+    margin-top: 5px;
+}
